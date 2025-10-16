@@ -1,0 +1,20 @@
+*   0cb956a Merge branch 'server_last' into release
+|\  
+| * edf56e4 add todo.txt 4
+* |   503a28e Merge branch 'feature1'
+|\ \  
+| |/  
+|/|   
+| * e9b85ab Добавить фичу 1
+| * 299141b feature1 change
+* | fe09b00 Откатил к 3 коммиту
+| | * 8519c2e Добавить фичу 2
+| | * 4f93a01 feature2 change
+| |/  
+| * 21417ca add todo.txt 5
+| * e278dd8 add todo.txt 4
+|/  
+* 91ff62c add todo.txt 3
+* 4f93ba8 add todo.txt 2
+* 1c06893 add todo.txt 1
+* 6c320ab init
